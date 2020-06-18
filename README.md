@@ -1,5 +1,5 @@
 # Certifications
-Collection of online course certifications.
+Collection of online course certifications issued to me.
 
 ## Java 1 course in English
 ![alt text](https://github.com/Dr-DeBugg/Certifications/blob/master/objectOrientedProgrrammingJava.png "Java 1")
