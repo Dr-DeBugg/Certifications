@@ -7,8 +7,8 @@ Collection of online course certifications issued to me.
 ## Dev Ops with Docker
 ![alt text](https://github.com/Dr-DeBugg/Certifications/blob/master/certificate-devOpsDocker.png "Dev Ops with Docker")
 
-## Full Stack 2019
-![alt text](https://github.com/Dr-DeBugg/Certifications/blob/master/certificate-fullstackopen.png "Fullstack 2019")
+## Full Stack 2020
+![alt text](https://github.com/Dr-DeBugg/Certifications/blob/master/certificate-fullstack_Eng.png "Fullstack 2020")
 
 ## CCNA R&S intro
 ![alt text](https://github.com/Dr-DeBugg/Certifications/blob/master/SanteriKangas-CCNA%2BR%26S%2BIntroductio-Certificate.png "CCNA R&S intro")
